@@ -23,7 +23,7 @@ The basic design goals, in no particular order, are:
 3. Availability: the screen does not "blank" when active,
 4. Minimal dependencies: it's a timer, it shouldn't depend on anything else.
 
-# Basic Operation:
+# Basic Operation
 
 1. Set the Talk Time, the total time that the speaker is expected to
    present,
